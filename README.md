@@ -1,3 +1,3 @@
 # GitProject
 for learning git and githup
-##project notes here
+## project notes here
